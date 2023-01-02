@@ -6,7 +6,7 @@
 
 ## Authors Name
 
-    Denis Ouma Otieno
+    Prashant Pandey
 
 ## Table of contents
 
